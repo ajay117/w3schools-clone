@@ -34,4 +34,6 @@ body {
   border-radius: 25px;
   color: white;
   font-size: 12px;
+  width: 70px;
+  text-align: center;
 }
